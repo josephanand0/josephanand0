@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning and pursing my btech
 - 💞️ I’m looking to collaborate on companies which provide me an oppurtunity to present my skills and also to improve them.
-- 📫 How to reach me:djanandkumar@gmai.com
+- 📫 How to reach me:djanandkumar9@gmail.com
 
 <!---
 josephanand0/josephanand0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
